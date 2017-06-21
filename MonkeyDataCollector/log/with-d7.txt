@@ -1,0 +1,19 @@
+--------- beginning of main
+E/memtrack(12309): Couldn't load memtrack module (No such file or directory)
+E/android.os.Debug(12309): failed to load memtrack module: -2
+--------- beginning of system
+I/ActivityManager( 1573): START u0 {flg=0x10000000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 0 on display 0
+I/ActivityManager( 1573): Start proc 12319:com.notriddle.budget/u0a130 for activity com.notriddle.budget/.EnvelopesActivity
+E/EGL_emulation( 1297): tid 1297: eglCreateSyncKHR(1669): error 0x3004 (EGL_BAD_ATTRIBUTE)
+E/SurfaceFlinger( 1297): ro.sf.lcd_density must be defined as a build property
+I/ActivityManager( 1573): Displayed com.notriddle.budget/.EnvelopesActivity: +449ms
+E/memtrack(12333): Couldn't load memtrack module (No such file or directory)
+E/android.os.Debug(12333): failed to load memtrack module: -2
+I/ActivityManager( 1573): Force stopping org.mate appid=10073 user=0: start instr
+I/ActivityManager( 1573): Start proc 12349:org.mate/u0a73 for added application org.mate
+I/ActivityManager( 1573): START u0 {cmp=com.notriddle.budget/.EnvelopeDetailsActivity (has extras)} from uid 10130 on display 0
+I/ActivityManager( 1573): Displayed com.notriddle.budget/.EnvelopeDetailsActivity: +181ms
+I/ActivityManager( 1573): START u0 {dat=fragment://com.notriddle.budget.SpendFragment cmp=com.notriddle.budget/.FragmentActivity (has extras)} from uid 10130 on display 0
+I/ActivityManager( 1573): Displayed com.notriddle.budget/.FragmentActivity: +170ms
+I/ActivityManager( 1573): Force stopping org.mate appid=10073 user=0: finished inst
+I/ActivityManager( 1573): Killing 12349:org.mate/u0a73 (adj 0): stop org.mate

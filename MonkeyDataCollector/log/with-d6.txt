@@ -1,0 +1,41 @@
+--------- beginning of main
+E/cutils-trace( 4937): Error opening trace file: Permission denied (13)
+E/memtrack( 4937): Couldn't load memtrack module (No such file or directory)
+E/android.os.Debug( 4937): failed to load memtrack module: -2
+--------- beginning of system
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): Start proc 4951:com.notriddle.budget/u0a115 for activity com.notriddle.budget/.EnvelopesActivity
+E/SurfaceFlinger( 1297): ro.sf.lcd_density must be defined as a build property
+I/ActivityManager( 1573): Displayed com.notriddle.budget/.EnvelopesActivity: +407ms (total +2s475ms)
+I/ActivityManager( 1573): START u0 {cmp=com.notriddle.budget/.EnvelopeDetailsActivity (has extras)} from uid 10115 on display 0
+I/ActivityManager( 1573): Displayed com.notriddle.budget/.EnvelopeDetailsActivity: +205ms
+I/ActivityManager( 1573): Setting hasTopUi=true for pid=1658
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): Setting hasTopUi=false for pid=1658
+I/ActivityManager( 1573): Setting hasTopUi=true for pid=1658
+I/ActivityManager( 1573): Setting hasTopUi=false for pid=1658
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): START u0 {act=android.intent.action.CALL_BUTTON flg=0x10000000 cmp=com.android.dialer/.DialtactsActivity} from uid 10115 on display 0
+E/EGL_emulation( 1297): tid 1297: eglCreateSyncKHR(1669): error 0x3004 (EGL_BAD_ATTRIBUTE)
+E/GsaVoiceInteractionSess( 2101): startAssistActivity: opted out
+I/ActivityManager( 1573): START u0 {act=android.intent.action.ASSIST flg=0x10000000 cmp=com.google.android.googlequicksearchbox/.SearchActivity (has extras)} from uid 10022 on display 0
+E/ContextIntentStarter( 2101): No activity found for any of the 0 intents
+E/NowRemoteClient( 2101): skipping logEndstates, service is null
+E/NowRemoteClient( 2101): skipping logEndstates, service is null
+E/GsaVoiceInteractionSess( 2101): startAssistActivity: opted out
+I/ActivityManager( 1573): START u0 {act=android.intent.action.ASSIST flg=0x10000000 cmp=com.google.android.googlequicksearchbox/.SearchActivity (has extras)} from uid 10022 on display 0
+E/ContextIntentStarter( 2101): No activity found for any of the 0 intents
+E/NowRemoteClient( 2101): skipping logEndstates, service is null
+E/NowRemoteClient( 2101): skipping logEndstates, service is null
+I/ActivityManager( 1573): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 2000 on display 0
+I/ActivityManager( 1573): START u0 {cmp=com.notriddle.budget/.EnvelopeDetailsActivity (has extras)} from uid 10115 on display 0
+I/ActivityManager( 1573): Displayed com.notriddle.budget/.EnvelopeDetailsActivity: +94ms
+I/ActivityManager( 1573): START u0 {act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog} from uid 1000 on display 0
+I/ActivityManager( 1573): START u0 {flg=0x4000000 cmp=com.notriddle.budget/.EnvelopesActivity} from uid 10115 on display 0
+I/ActivityManager( 1573): Setting hasTopUi=true for pid=1658
+I/ActivityManager( 1573): Setting hasTopUi=false for pid=1658
+I/ActivityManager( 1573): Displayed com.notriddle.budget/.EnvelopesActivity: +217ms
